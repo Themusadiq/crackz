@@ -58,7 +58,7 @@ logo = """
 \033[1;96mAuthor  \033[1;93m: \033[1;92mThemusadiq
 \033[1;96mInstagram \033[1;93m: \033[1;mmusadiqshahsyed
 \033[1;96mFacebook  \033[1;93m: \033[1;mmuslim.musadiq
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/iammusadiq/mm
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/themusadiq/crackz
 \033[1;91m======================================="""
 
 def tik():
