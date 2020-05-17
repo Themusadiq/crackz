@@ -48,12 +48,12 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """ 
-033[1;91m██████╗░░░░░░░░░░░░██╗██╗████████  ╗
-         ██╔══██╗░░░░░░░░░░░██║██║╚══██╔══╝
-         ██████╔╝█████╗░░░░░██║██║░░░██║░░░
-         ██╔══██╗╚════╝██╗░░██║██║░░░██║░░░
-         ██║░░██║░░░░░░╚█████╔╝██║░░░██║░░░
-         ╚═╝░░╚═╝░░░░░░░╚════╝░╚═╝░░░╚═╝░░░
+\033[1;91m██████╗░░░░░░░░░░░░██╗██╗████████  ╗
+          ██╔══██╗░░░░░░░░░░░██║██║╚══██╔══╝
+          ██████╔╝█████╗░░░░░██║██║░░░██║░░░
+          ██╔══██╗╚════╝██╗░░██║██║░░░██║░░░
+          ██║░░██║░░░░░░╚█████╔╝██║░░░██║░░░
+          ╚═╝░░╚═╝░░░░░░░╚════╝░╚═╝░░░╚═╝░░░
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mThemusadiq
 \033[1;96mInstagram \033[1;93m: \033[1;mmusadiqshahsyed
@@ -99,10 +99,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.youtube.com/channel/UCkL2HhVE7lreOwn2EaVy60g')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.facebook.com/muslim.musadiq')
 
 def login():
 	os.system('clear')
